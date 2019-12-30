@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.function.*;
+
+import static java.util.Comparator.comparing;
 
 /**
  * @author: guangxush
@@ -45,6 +48,7 @@ public class Farmer {
             }
         });
         //改用泛型进行排序
+        //Lambda表达式由参数、箭头和主体组成
         inventory.sort((Apple a1, Apple a2) -> a1.getWeight().compareTo(a2.getWeight()));
         //使用线程执行代码
         Thread t = new Thread(new Runnable() {

@@ -6,7 +6,15 @@ public class Apple {
     private String color;
     private Integer weight;
 
-    public Apple(int weight, String color) {
+    public Apple(){
+
+    }
+
+    public Apple(Integer weight){
+        this.weight = weight;
+    }
+
+    public Apple(Integer weight, String color) {
         this.weight = weight;
         this.color = color;
     }
