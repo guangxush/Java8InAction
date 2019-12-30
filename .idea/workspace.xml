@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cfea1de-9c27-4f7b-8cbe-5c4969995f59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/AppleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/AroundTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/BufferedReaderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/LearnLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project02/src/main/java/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project03/Project03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/Accumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/Collector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/DigitStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/ForkJoinSumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/LearnParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/LearnStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/ToListCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/TradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project03/src/main/java/WordCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project01/src/main/java/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project01/src/main/java/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project01/src/main/java/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project01/src/main/java/Farmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project02/Project02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project02/Project02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/Project03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/Project03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/src/main/java/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/main/java/Dish.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Project01/target/" />
@@ -43,10 +36,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/CustomerTest.java">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/LearnStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="609">
+              <caret line="378" selection-start-line="378" selection-end-line="378" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#14116#14117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Collector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,82 +61,80 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/LearnLambda.java">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/ToListCollector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="110" column="47" selection-start-line="110" selection-start-column="47" selection-end-line="110" selection-end-column="47" />
+            <state relative-caret-position="456">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#2756#2757#0" expanded="true" />
-                <element signature="e#3431#3432#0" expanded="true" />
-                <element signature="e#3476#3477#0" expanded="true" />
+                <element signature="e#965#966#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project03/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/LearnParallelStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project03/Project03.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/ForkJoinSumCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <folding>
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Dish.java">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/WordCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/Letter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="672">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Farmer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="17" column="28" selection-start-line="17" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/Consumer.java">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Accumulator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/BufferedReaderProcessor.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="313">
+              <caret line="313" column="9" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/TradeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" column="10" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="26" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,13 +143,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project02/src/main/java/AppleComparator.java">
+        <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="399">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,9 +164,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Integer</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -190,6 +207,20 @@
         <option value="$PROJECT_DIR$/Project01/src/main/java/Farmer.java" />
         <option value="$PROJECT_DIR$/Project02/src/main/java/Letter.java" />
         <option value="$PROJECT_DIR$/Project02/src/main/java/LearnLambda.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Type.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Dish.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Trader.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Transaction.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/DigitStreamTest.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/TradeTest.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/CollectDataByStream.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/LearnStream.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Collector.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/ToListCollector.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/Accumulator.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/LearnParallelStream.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/ForkJoinSumCalculator.java" />
+        <option value="$PROJECT_DIR$/Project03/src/main/java/WordCounter.java" />
       </list>
     </option>
   </component>
@@ -221,46 +252,6 @@
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
@@ -314,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FunctionTest">
+  <component name="RunManager" selected="Application.TradeTest">
     <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomerTest" />
       <module name="Project02" />
@@ -323,14 +314,38 @@
       </method>
     </configuration>
     <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="FunctionTest" />
-      <module name="Project02" />
+      <module name="Project03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnStream" />
+      <module name="Project03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TradeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TradeTest" />
+      <module name="Project03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CustomerTest" />
+      <item itemvalue="Application.FunctionTest" />
+      <item itemvalue="Application.LearnStream" />
+      <item itemvalue="Application.TradeTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TradeTest" />
+        <item itemvalue="Application.LearnStream" />
         <item itemvalue="Application.FunctionTest" />
         <item itemvalue="Application.CustomerTest" />
       </list>
@@ -346,12 +361,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577516480814</updated>
-      <workItem from="1577516482423" duration="12203000" />
+      <workItem from="1577516482423" duration="19690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12203000" />
+    <option name="totallyTimeSpent" value="19690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1057" width="1920" height="1057" extended-state="6" />
@@ -369,7 +384,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
@@ -668,10 +683,171 @@
     <entry file="file://$PROJECT_DIR$/Project03/Project03.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Dish.java">
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Type.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Trader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/DigitStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/CollectDataByStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/TradeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/LearnStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="378" selection-start-line="378" selection-end-line="378" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14116#14117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Collector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="313" column="9" selection-start-line="313" selection-start-column="9" selection-end-line="313" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/ToListCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/Accumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/LearnParallelStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/ForkJoinSumCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/main/java/WordCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

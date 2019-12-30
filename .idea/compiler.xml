@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="Project01" target="8" />
       <module name="Project02" target="8" />
-      <module name="Project03" target="1.5" />
+      <module name="Project03" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
