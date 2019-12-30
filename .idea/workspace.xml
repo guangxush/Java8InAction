@@ -1,28 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cfea1de-9c27-4f7b-8cbe-5c4969995f59" name="Default Changelist" comment="" />
+    <list default="true" id="9cfea1de-9c27-4f7b-8cbe-5c4969995f59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/Farmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/FilterAppleFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/FilterAppleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/FilterAppleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/FilterAppleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/FilterAppleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/main/java/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/test/java/AppleFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project01/src/test/java/PrettyPrintApple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project01/Project01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project01/Project01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project02/Project02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project02/Project02.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Project01/target/" />
+    <ignored path="$PROJECT_DIR$/Project02/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Apple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#227#0" expanded="true" />
+                <element signature="e#567#574#0" expanded="true" />
+                <element signature="e#912#919#0" expanded="true" />
+                <element signature="e#1240#1247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/ApplePredicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#270#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project01/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Farmer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="43" column="47" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1057#1058#0" expanded="true" />
+                <element signature="e#1670#1671#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Predicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleFive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Project01/src/main/java/FilterAppleOne.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/FilterAppleTwo.java" />
+        <option value="$PROJECT_DIR$/Project01/src/test/java/AppleFormatter.java" />
+        <option value="$PROJECT_DIR$/Project01/src/test/java/PrettyPrintApple.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/FilterAppleThree.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/FilterAppleFour.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/ApplePredicate.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/Predicate.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/FilterAppleFive.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/Comparator.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/Farmer.java" />
+        <option value="$PROJECT_DIR$/Project01/src/main/java/Apple.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-126" />
     <option name="y" value="-1057" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -30,11 +212,50 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -66,27 +287,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577516480814</updated>
-      <workItem from="1577516482423" duration="355000" />
+      <workItem from="1577516482423" duration="5050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355000" />
+    <option name="totallyTimeSpent" value="5050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18956336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -113,6 +335,159 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Project01/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/test/java/AppleFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/test/java/PrettyPrintApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#448#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#227#0" expanded="true" />
+            <element signature="e#567#574#0" expanded="true" />
+            <element signature="e#912#919#0" expanded="true" />
+            <element signature="e#1240#1247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/ApplePredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/FilterAppleFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project01/src/main/java/Farmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1670#1671#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -169,7 +544,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
