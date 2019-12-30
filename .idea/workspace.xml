@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cfea1de-9c27-4f7b-8cbe-5c4969995f59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/Project04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/DesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/Lambda2Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/chain/HeaderTextProcessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/chain/ProcessingObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/chain/SpellCheckerProcessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/chain/TestChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/completable/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/completable/TestShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/Resizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/Rotatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/defaultmethod/TestMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/factory/Bond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/factory/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/factory/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/factory/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/factory/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/Feed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/Guardian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/LeMonde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/NYTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/observer/TestObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/TestNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/TestOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/origin/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/origin/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/optional/origin/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/strategy/IsAllLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/strategy/IsNumeric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/strategy/StrategyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/strategy/ValidationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/strategy/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/template/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/template/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/template/OnlineBanking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/template/OnlineBankingLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/main/java/template/TestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project04/src/test/java/PointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project03/src/main/java/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/main/java/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project03/target/classes/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/target/classes/Dish.class" afterDir="false" />
-    </list>
+    <list default="true" id="9cfea1de-9c27-4f7b-8cbe-5c4969995f59" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Project01/target/" />
     <ignored path="$PROJECT_DIR$/Project02/target/" />
@@ -81,15 +21,6 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project04/src/main/java/optional/origin/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project04/src/main/java/optional/origin/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -176,14 +107,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project04/src/main/java/completable/TestShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="49" column="46" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="46" />
+            <state relative-caret-position="176">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -224,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Project04/src/main/java/Lambda2Reference.java" />
         <option value="$PROJECT_DIR$/Project04/src/main/java/ValidationStrategy.java" />
         <option value="$PROJECT_DIR$/Project04/src/main/java/IsAllLowerCase.java" />
         <option value="$PROJECT_DIR$/Project04/src/main/java/IsNumeric.java" />
@@ -275,6 +217,7 @@
         <option value="$PROJECT_DIR$/Project04/src/main/java/optional/TestOptional.java" />
         <option value="$PROJECT_DIR$/Project04/src/main/java/completable/Shop.java" />
         <option value="$PROJECT_DIR$/Project04/src/main/java/completable/TestShop.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -305,45 +248,46 @@
           <expand>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
+              <item name="Project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="completable" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Project02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project04" type="462c0819:PsiDirectoryNode" />
+              <item name="Project02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java8InAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -481,7 +425,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577516480814</updated>
-      <workItem from="1577516482423" duration="29449000" />
+      <workItem from="1577516482423" duration="30131000" />
     </task>
     <servers />
   </component>
@@ -491,11 +435,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29449000" />
+    <option name="totallyTimeSpent" value="30131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-126" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -504,7 +447,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18956336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -512,7 +455,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,13 +476,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Project04/src/main/java/DesignPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project04/src/main/java/strategy/IsAllLowerCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1008,11 +944,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project04/src/main/java/completable/TestShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="49" column="46" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="46" />
+        <state relative-caret-position="176">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
