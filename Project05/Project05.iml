@@ -11,6 +11,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Project01" />
+    <orderEntry type="module" module-name="Project04" />
+    <orderEntry type="module" module-name="Project03" />
   </component>
 </module>
